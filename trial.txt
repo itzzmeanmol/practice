@@ -1,2 +1,2 @@
-Hello World I am Anmol. 
-I am editing it now.
+Hello World.
+I am merging conflicts from other branch.
